@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Helen @hwo0
 - 👀 I’m interested in Data analytics and Insights Visualization
-- 🌱 I’m currently studying Masters of Analytics in AUT, specializing in Mathematical Sciences.
+- 🌱 I’m currently studying Masters of Analytics in AUT University, specializing in Mathematical Sciences.
 - 💞️ I’m currently learning R, SAS, Python and SQL. Will incorporate Power BI and Tableau learning in the future too
 - 📫 Reach me through LinkedIn: https://www.linkedin.com/in/helenwu-/
 <!---
