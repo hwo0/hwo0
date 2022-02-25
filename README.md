@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Helen @hwo0
-- 👀 I’m interested in Data analytics and Insights Visualization
-- 🌱 I’m currently studying Masters of Analytics in AUT University, specializing in Mathematical Sciences.
-- 💞️ I’m currently learning R, SAS, Python and SQL. Will incorporate Power BI and Tableau learning in the future too
+- 👀 I’m passionate about Data Analytics/Science and delivering insights.
+- 🌱 I'm finishing my last year of studies in Masters of Analytics at AUT University.
+- 💞️ I use Python, SQL, Power BI, R, SAS and Google Data Studio. Will look into Excel's applications in terms of data analysis in the future too.
+- 📝 I'm Azure Fundamentals (AZ-900) Certified. 
 - 📫 Reach me through LinkedIn: https://www.linkedin.com/in/helenwu-/
 - 🐶❤️️🐶 (p.s I love dogs)
 <!---
