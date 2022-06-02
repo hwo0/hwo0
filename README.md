@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Helen @hwo0
-- 👀 I’m passionate about using data analytics and data science for predictive modelling and delivering insights.
-- 🌱 I'm finishing my last semester of studies in Masters of Analytics at AUT University.
+- 👀 Passionate about using data analytics and data science for predictive modelling and insights delivery.
+- 🌱 Finishing my last semester of studies in Masters of Analytics at AUT University.
 - 💞️ I use Python, SQL, Power BI, R, SAS and Google Data Studio. 
-- 📝 I'm Azure Fundamentals (AZ-900) Certified. 
+- 📝 Azure Fundamentals (AZ-900) Certified. 
 - 📫 Reach me through LinkedIn: https://www.linkedin.com/in/helenwu-/
 - 🐶❤️️🐶 (p.s I heart dogs)
 <!---
